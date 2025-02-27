@@ -1,0 +1,14 @@
+[
+    
+    {
+        
+            "to": ["rodrigom@gmail.com","email2@dummy.pt"],
+            "subject": "Assunto do Email - HTML",
+            "body": "<h1>Este é um email em HTML</h1>",
+            "attachments": ["anexos/dummy.pdf"],
+            "isHtml": true
+        
+
+    }
+        
+]

@@ -1,0 +1,9 @@
+{
+    "smtpServer": "smtp.gmail.com",
+    "smtpPort": 587,
+    "smtpUser": "EMAIL",
+    "smtpPassword": "PASSWORD",
+    "inputFile": "input.json",
+    "logFile": "log.txt"
+
+}
