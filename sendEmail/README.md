@@ -21,8 +21,8 @@ Este quando lê o input.json de seguida limpa o ficheiro para que não haja prob
 
 
 # Possíveis melhorias
-- [X] Adicionar a possibilidade de enviar emails para vários destinatários
-- [X] Adicionar a possibilidade de enviar emails com anexos
-- [X] Adicionar a possibilidade de enviar emails com formatação HTML
+- [X] Adicionar a possibilidade de enviar emails para vários destinatários (send-email-v2)
+- [X] Adicionar a possibilidade de enviar emails com anexos (send-email-v2)
+- [X] Adicionar a possibilidade de enviar emails com formatação HTML (send-email-v2)
 - [ ] Adicionar espera ativa para o envio de emails ( ou seja nao ter de chamar sempre o script para enviar um email)
 
